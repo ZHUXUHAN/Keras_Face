@@ -1,5 +1,5 @@
 # Keras_Face
-This project include face-detection、face-attribute and identity-detection
+This project includes face-detection、face-attribute and identity-detection
 
 Face_detection part
 
